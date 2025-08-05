@@ -1,7 +1,7 @@
 {
   "metadata": {
     "approvalListMessageTs": "1754399243.021039",
-    "lastUpdated": "2025-08-05T13:07:05.387Z"
+    "lastUpdated": "2025-08-05T13:27:49.835Z"
   },
   "repositories": {
     "hmcts/rpx-xui-translation": {
@@ -28,7 +28,8 @@
           "status": "needs_approval",
           "approvals": 1,
           "createdAt": "2025-08-05T13:07:05.240Z",
-          "lastUpdated": "2025-08-05T13:07:05.387Z"
+          "lastUpdated": "2025-08-05T13:27:49.835Z",
+          "changesRequested": true
         }
       }
     }
