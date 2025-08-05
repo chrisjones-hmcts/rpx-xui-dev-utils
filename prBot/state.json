@@ -1,7 +1,7 @@
 {
   "metadata": {
     "approvalListMessageTs": "1754399191.722889",
-    "lastUpdated": "2025-08-05T13:06:20.546Z"
+    "lastUpdated": "2025-08-05T13:07:05.387Z"
   },
   "repositories": {
     "hmcts/rpx-xui-translation": {
@@ -15,6 +15,20 @@
           "approvals": 2,
           "createdAt": "2025-08-05T13:06:20.419Z",
           "lastUpdated": "2025-08-05T13:06:20.546Z"
+        }
+      }
+    },
+    "hmcts/em-media-viewer": {
+      "pullRequests": {
+        "1182": {
+          "number": 1182,
+          "title": "Task/exui 3114 tool for pr review process",
+          "author": "chrisjones-hmcts",
+          "url": "https://github.com/hmcts/em-media-viewer/pull/1182",
+          "status": "needs_approval",
+          "approvals": 1,
+          "createdAt": "2025-08-05T13:07:05.240Z",
+          "lastUpdated": "2025-08-05T13:07:05.387Z"
         }
       }
     }
