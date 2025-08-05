@@ -1,7 +1,7 @@
 {
   "metadata": {
     "approvalListMessageTs": "1754400487.601739",
-    "lastUpdated": "2025-08-05T13:27:49.835Z"
+    "lastUpdated": "2025-08-05T13:50:13.278Z"
   },
   "repositories": {
     "hmcts/rpx-xui-translation": {
@@ -26,9 +26,9 @@
           "author": "chrisjones-hmcts",
           "url": "https://github.com/hmcts/em-media-viewer/pull/1182",
           "status": "needs_approval",
-          "approvals": 1,
+          "approvals": 2,
           "createdAt": "2025-08-05T13:07:05.240Z",
-          "lastUpdated": "2025-08-05T13:27:49.835Z",
+          "lastUpdated": "2025-08-05T13:50:13.278Z",
           "changesRequested": true
         }
       }
